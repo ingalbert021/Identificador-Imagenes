@@ -4,7 +4,7 @@
 
 
 body{
-	background:url('./IMG/bg1.jpg');
+	background:url('./IMG/background.jpg');
 	/*con estas dos propiedades de aqui abajo podremos adaptar las imagenes a el 100% del fondo*/
 	  height:100vh; 
     background-size: cover;
