@@ -1,0 +1,50 @@
+*{
+	font-family: 'Nerko One', cursive;
+}
+
+
+body{
+	background:url('./IMG/bg1.jpg');
+	/*con estas dos propiedades de aqui abajo podremos adaptar las imagenes a el 100% del fondo*/
+	  height:100vh; 
+    background-size: cover;
+
+}
+
+.linea{
+	 background:#6610f2;
+  height: 10px;
+  width: 1365px;
+}
+#defaultCanvas0{
+border-radius: 5px;
+border: 1px solid black;
+margin-left: 36%;
+background:rgba(255, 255, 255,.7); 
+
+}
+
+
+.fondo-blanco{
+	background:rgba(255, 255, 255,.7); 
+
+}
+
+
+div{
+	color: black;
+	text-align: center;
+
+}
+
+
+a img{
+	bottom: 20px;
+width: 70px;
+height: 70px;
+}
+
+
+.color{
+	background:#6610f2;
+}
